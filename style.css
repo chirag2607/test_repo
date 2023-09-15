@@ -1,0 +1,224 @@
+/* Add this CSS to your style.css file */
+
+/* Reset some default styles */
+body, h1, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Apply a background color to the body */
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+/* Style the header */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Style the navigation menu */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+/* Style the login container */
+.login-container {
+    text-align: right;
+    padding: 10px;
+}
+
+.login-container img {
+    width: 24px;
+    height: 24px;
+}
+
+/* Style the first head container */
+.first-head-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.first-head-container h3 {
+    font-size: 1.2rem;
+    color: #555;
+}
+
+.first-head-container h1 {
+    font-size: 2.5rem;
+    margin-top: 10px;
+}
+
+/* Style the body container */
+.body-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Style the "Order Now" and "Our Menu" links */
+#order-now ul li, #our-menu ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+#order-now ul li a, #our-menu ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+/* Style the options box */
+.options-box {
+    background-color: #fff;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.options-box .options span {
+    display: block;
+    margin-bottom: 10px;
+    color: #555;
+}
+
+.options-box .buttons button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.options-box img {
+    max-width: 100%;
+    margin-top: 20px;
+}
+
+/* Style the "See More" button */
+.see-more-box button, .see-more2-box button, .Visit-Us button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+/* Style the drinks box container */
+.drinks-box-container {
+    background-color: #fff;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.drinks-box-container h1, .drinks-box-container h3 {
+    color: #333;
+}
+
+.drinks-box-container p {
+    color: #555;
+    margin-top: 10px;
+}
+
+.drinks-box-container img {
+    max-width: 100%;
+    margin-top: 20px;
+}
+
+/* Style the Enjoy section */
+.Enjoy {
+    background-color: #fff;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.Enjoy h1, .Enjoy h3 {
+    color: #333;
+}
+
+.Enjoy p {
+    color: #555;
+    margin-top: 10px;
+}
+
+.Enjoy img {
+    max-width: 100%;
+    margin-top: 20px;
+}
+
+/* Style the box container */
+.box-container {
+    background-color: #fff;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.box-container h1, .box-container h3 {
+    color: #333;
+}
+
+.box-container p {
+    color: #555;
+    margin-top: 10px;
+}
+
+.box-container img {
+    max-width: 100%;
+    margin-top: 20px;
+}
+
+/* Style the footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+footer h3 {
+    font-size: 1.2rem;
+    margin: 10px 0;
+}
+
+footer p {
+    margin: 10px 0;
+}
+
+footer a {
+    text-decoration: none;
+    color: #fff;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+/* Style the copyright text */
+footer .copyright {
+    font-size: 12px;
+    margin-top: 20px;
+}
